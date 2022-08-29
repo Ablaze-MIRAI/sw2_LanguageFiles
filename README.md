@@ -4,7 +4,7 @@
     <thead>
         <tr>
             <th style="text-align:center">
-                <a href="README.md">日本語</a>
+                <p>日本語</p>
             </th>
             <th style="text-align:center">
                 <a href="README.en.md">English</a>

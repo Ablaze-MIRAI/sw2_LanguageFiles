@@ -7,7 +7,7 @@
                 <a href="README.md">日本語</a>
             </th>
             <th style="text-align:center">
-                <a href="README.en.md">English</a>
+                <p>English</p>
             </th>
         </tr>
     </thead>
