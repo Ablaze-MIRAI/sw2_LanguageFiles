@@ -17,7 +17,8 @@ This is a translation of the current ablaze.one file. If you find any typos, etc
 
 # Supported languages
 
-- Japanese(ja)
-- English(en)
-- Russian(ru)
-- Korean(ko)
+- Japanese (ja)
+- English (en)
+- Russian (ru)
+- Korean (ko)
+- morse code (mre)
