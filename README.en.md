@@ -23,3 +23,4 @@ This is a translation of the current ablaze.one file. If you find any typos, etc
 - Korean (ko)
 - Morse code (mrs-JP)
 - Hex (hex-JP)
+- Braille (ten-JP)
