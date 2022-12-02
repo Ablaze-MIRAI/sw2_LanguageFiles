@@ -1,6 +1,6 @@
 export default {
     MINATOAQUA_KOAKUA: "ζ*(・ヮ・)*ζ<konaqua~!!",
-    ABLAZE_SUPPORT_DESCRIPTION: "For Q&A and inquiries about the project, please contact us here.",
+    ABLAZE_SUPPORT_DESCRIPTION: "For Q&A and questions about the project, please contact us here.",
     ABLAZE_BLOG_DESCRIPTION: "Ablaze members' daily lives and project progress are posted here.",
     FLOORP_NOTICE_TITLE: "Thank you for visiting Floorp!",
     FLOORP_NOTICE_DESCRIPTION: "Check the official Floorp website for updates.",
@@ -11,7 +11,7 @@ export default {
     PROJECT_STATUS_BETARELEASE: "Beta Release",
     PROJECT_STATUS_END: "End of Development",
     PROJECT_STATUS_FROZEN: "Currently Frozen",
-    E404_NOT_FOUND: "The page you are looking for could not be found.",
-    ABLAZE_CREATOR_PACK_DESCRIPTION: ["Please read the included", "README.txt", "carefully before use."],
+    E404_NOT_FOUND: "The page not found that you are looking for.",
+    ABLAZE_CREATOR_PACK_DESCRIPTION: ["Please read the included", "README.txt", "carefully before using."],
     ABLAZE_CREATOR_PACK_LINK: "Download at Ablaze Repo"
 }
