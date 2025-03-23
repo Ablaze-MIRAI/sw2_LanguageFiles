@@ -13,7 +13,12 @@
     </thead>
 </table>
 
-~~ 現行の ablaze.one の翻訳ファイルです。誤字等を発見したらPRやIssueを出していただけるとありがたいです。 ~~
+> [!IMPORTANT]
+> v2の廃止に伴いアーカイブします。
+> 
+> Archived due to discontinuation of v2.
+
+~~現行の ablaze.one の翻訳ファイルです。誤字等を発見したらPRやIssueを出していただけるとありがたいです。~~
 
 # 対応済み言語
 
